@@ -1,6 +1,6 @@
 function probability(count){
-    let min = 100;
-    let max = 1000;
+    let min = 100
+    let max = 1000
     let evenInt = 0
     let oddInt = 0
     for (let i = 0; i < count; i++){
